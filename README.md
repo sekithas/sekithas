@@ -14,6 +14,9 @@ I’ll soon start creating mini-projects that combine programming with my favori
 
 📧 Connect:
 <p align="left">
+  <a href="mailto:sekitha.senanayake@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linktr.ee/sekithas" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
