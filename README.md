@@ -4,8 +4,8 @@
 
 Aspiring Machine Learning Engineer
 
-I’m a 16-year-old developer passionate about building cool things with code.
-Right now, I’m diving deep into Python, computer science fundamentals, and the exciting world of machine learning.
+I’m a 16-year-old developer passionate about building cool things with python.
+Right now, I’m learning the fundamentals of computer science and the exciting world of machine learning.
 I love learning something new every day — and I’ll soon be sharing my progress here on GitHub.
 
 ♟️ What’s Next?
