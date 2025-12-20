@@ -16,7 +16,7 @@ I love learning something new every day — and I’ll soon be sharing my progre
   <a href="https://linktr.ee/sekithas" target="_blank">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sekitha-senanayake-5909b433a/" target="_blank">
+  <a href="https://www.linkedin.com/in/sekithas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/sekitha_senanay1" target="_blank">
