@@ -2,9 +2,7 @@
 
 👋 Hey! I’m Sekitha
 
-Aspiring Machine Learning Engineer
-
-I’m a developer passionate about building cool things with python. I like learning something new every day — and I’ll soon be sharing my progress here on GitHub.
+Aspiring Machine Learning Engineer.
 
 📧 Connect:
 <p align="left">
